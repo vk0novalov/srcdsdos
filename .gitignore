@@ -1,0 +1,6 @@
+[Mm]odule*
+*.o
+*.cmd
+*.mod.c
+.tmp_versions
+srcdsdos.ko
